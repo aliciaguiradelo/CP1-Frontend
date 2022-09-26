@@ -1,0 +1,53 @@
+body{
+    font-family: sans-serif;
+    text-align: justify;
+    color: blue;
+    text-decoration: none;
+    width: 1200px;
+}
+div{
+    width: 1200px;
+
+    
+    
+}
+header{
+    width: 1200px;
+    border: black solid;
+    text-align: center;
+}
+main{
+    display: flex;
+    
+    
+}
+section{
+    width: 33.33%;
+    
+}
+h2{
+    font-size: 35px;
+    color: red;
+    text-align: center;
+}
+
+li{
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 25px;
+    color: red;
+    display: inline;
+    margin: 0px 20px;
+    
+}
+article{
+    border: black solid;
+    
+    text-align: center;
+    
+}
+footer{
+    font-size: 15px;
+    text-align: center;
+}
+
